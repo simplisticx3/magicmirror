@@ -1,19 +1,39 @@
 {
   "anytime": ["Poop!"],
-  "....-08-23": ["Testing!"],
+  "....-01-01": ["Happy New Year!"],
+  "....-02-14": ["Happy Valentines Day!"],
+  "....-03-17": ["Happy St. Patricks Day!"],
+  "....-07-04": ["Happy 4th of July!"],
+  "....-08-04": ["Happy Birthday Kelly!"],
+  "....-08-10": ["Happy Home Anniversary!"],
+  "....-10-24": ["Happy Birthday Brian!"],
+  "....-10-31": ["Happy Halloween!"],
+  "....-11-2.": ["Happy Thanksgiving!"],
+  "....-12-25": ["Merry Christmas!"],
+  "....-12-31": ["Happy New Years Eve!"],
+  "day_sunny": ["It's sunny today.\n Did you put on sunscreen?"],
+  "day_cloudy": ["It's a cloudy day today."],
+  "cloudy": [It's a cloudy day today."],
+  "cloudy_windy": ["It's windy today. \n Don't forget a jacket!"],
+  "showers": ["It's showering today. \n Don't forget an umbrella!"],
+  "rain": ["It's raining today. \n Don't forget an umbrella!"],
+  "thunderstorm": ["It's storming outside. \n Stay safe!"],
+  "snow": ["It's snowing outside. \n Do you have snowchains?"],
+  "fog": ["It's foggy today. \n Don't forget your fog lights!"], 
   "morning": [
-    "Good morning, sunshine!",
-    "Who needs coffee when you have your smile?",
-    "Go get 'em, Tiger!"
+    "Good morning!",
+    "What's for breakfast?",
+    "Have a good day!"
   ],
   "afternoon": [
+    "Good afternoon!",
     "Hitting your stride!",
-    "You are making a difference!",
-    "You're more fun than bubble wrap!"
+    "What's for lunch?",
+    "Did you drink enough water?"
   ],
   "evening": [
-    "You made someone smile today, I know it.",
-    "You are making a difference.",
-    "The day was better for your efforts."
+    "Good evening!",
+    "What's for dinner?",
+    "Have a good night."
   ]
 }
